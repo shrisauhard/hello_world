@@ -1,9 +1,12 @@
 # hello_world
 first repo
 
-HI people
+Hi people!!
 
 This is just me trying out the Github features..
-Whoops ots GitHub and not Github
+
+Whoops its GitHub and not Github..
+
 Nonetheless
+
 Tata
